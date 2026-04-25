@@ -1,9 +1,9 @@
 
- package com.mycompany.bankingsystem;
+ 
 
 import java.util.Scanner;
 
-public class BankingSystem {
+public class Main {
 
     public static void main(String[] args) {
         Bank bank = new Bank();
